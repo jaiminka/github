@@ -5,13 +5,7 @@ import org.testng.annotations.Test;
 public class T4 {
   @Test
   public void test6() {
-
-	 
-	System.out.println("test6");
-	  System.out.println("hello Upal");
+upal from upal 4th trial
 
 
-	System.out.println("new hello jaimin");
-
-  }
 }
