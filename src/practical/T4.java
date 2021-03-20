@@ -7,6 +7,7 @@ public class T4 {
   public void test6() {
 
 	  System.out.println("hello Upal");
+		System.out.println("hello Nidhi");
 
 
   }
