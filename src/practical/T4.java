@@ -6,7 +6,7 @@ public class T4 {
   @Test
   public void test6() {
 
-jaimin 1st
+jaimin 
 
 upal from upal 2nd trial
 
